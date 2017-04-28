@@ -11,6 +11,8 @@
   ],
   "require": {},
   "autoload": {
-    "Bavix\\": "src/"
+    "psr-4": {
+      "Bavix\\": "src/"
+    }
   }
 }
